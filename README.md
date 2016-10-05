@@ -1,5 +1,3 @@
-WORK IN PROGRESS, PLEASE COME BACK LATER
-
 # Better SQL in Java
 
 WARNING : this project is only a toy POC, don't use it for real use cases.
